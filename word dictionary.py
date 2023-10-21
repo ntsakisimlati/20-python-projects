@@ -8,3 +8,6 @@ while True:
         break
     
     print(dictionary.meaning(word))
+    
+    print("testing file editing from github app on ipad")
+    
